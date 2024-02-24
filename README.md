@@ -73,7 +73,7 @@ We can see that the coefficient of the target variable (class) with Polyuria is 
 
 We can see that the coefficient of the target variable (class) with weakness is 0.24. we can assume that there is some positive correlation between this variable and our target variable.
 
-conclude
+#### conclude
 So we can find that only Gender,Polyuria, Polydipsia,sudden weight loss, weakness, Polyphagia, visual blurring, Irritability, partial paresis, Alopecia have relation with class(target variable)
 
 ### 4. static analysis
