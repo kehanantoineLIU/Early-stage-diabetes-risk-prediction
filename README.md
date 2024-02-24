@@ -18,39 +18,41 @@ Health-conscious and preventive population(Bangladesh )
 
 ## 4. Data selection and analysis
 ### 1. Data selected for the plan
-Obesity: Obesity is one of the major risk factors for developing type 2 diabetes. Excess fat can lead to insulin resistance, increasing the risk of diabetes.
-Sex: Gender may influence the risk of diabetes differently between males and females, although specific effects may vary.
-Age: Age is a significant risk factor for diabetes. As age increases, so does the risk of developing diabetes.
-High blood pressure: High blood pressure is closely associated with diabetes. Individuals with diabetes are more likely to develop high blood pressure, which also increases the risk of diabetes.
-High blood sugar: High blood sugar is a core feature of diabetes. Sustained high blood sugar levels are indicative of type 2 diabetes.
-Frequent thirst: Frequent thirst is an early symptom of diabetes, associated with fluctuations in blood sugar levels.
-Persistent feelings of fatigue: Persistent fatigue may be an early symptom of diabetes, related to unstable blood sugar levels.
-Dramatic changes in weight: Dramatic weight changes may be associated with diabetes, particularly in type 2 diabetes.
-Blurred vision: Blurred vision may be an early symptom of diabetes, related to eye problems caused by high blood sugar.
-class of diabetes： 1.Positive, 2.Negative.
+Obesity: Obesity is one of the major risk factors for developing type 2 diabetes. Excess fat can lead to insulin resistance, increasing the risk of diabetes.   
+Sex: Gender may influence the risk of diabetes differently between males and females, although specific effects may vary.   
+Age: Age is a significant risk factor for diabetes. As age increases, so does the risk of developing diabetes.   
+High blood pressure: High blood pressure is closely associated with diabetes. Individuals with diabetes are more likely to develop high blood pressure, which also increases the risk of diabetes.   
+High blood sugar: High blood sugar is a core feature of diabetes. Sustained high blood sugar levels are indicative of type 2 diabetes.   
+Frequent thirst: Frequent thirst is an early symptom of diabetes, associated with fluctuations in blood sugar levels.   
+Persistent feelings of fatigue: Persistent fatigue may be an early symptom of diabetes, related to unstable blood sugar levels.   
+Dramatic changes in weight: Dramatic weight changes may be associated with diabetes, particularly in type 2 diabetes.   
+Blurred vision: Blurred vision may be an early symptom of diabetes, related to eye problems caused by high blood sugar.   
+class of diabetes： 1.Positive, 2.Negative.   
+
 ### 2. dataset selection
 dataset：https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset   
 info：This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient. And this has been collected using direct questionnaires from the patients of Sylhet Diabetes
 Hospital in Sylhet, Bangladesh and approved by a doctor.
 
 ### Variable Information
-Age 1.20-65		
-Sex 1. Male, 2.Female		
-Polyuria 1.Yes, 2.No.		
-Polydipsia 1.Yes, 2.No.		
-sudden weight loss 1.Yes, 2.No.		
-weakness 1.Yes, 2.No.		
-Polyphagia 1.Yes, 2.No.		
-Genital thrush 1.Yes, 2.No.		
-visual blurring 1.Yes, 2.No.		
-Itching 1.Yes, 2.No.		
-Irritability 1.Yes, 2.No.		
-delayed healing 1.Yes, 2.No.		
-partial paresis 1.Yes, 2.No.		
-muscle stiness 1.Yes, 2.No.		
-Alopecia 1.Yes, 2.No.		
-Obesity 1.Yes, 2.No.		
-Class 1.Positive, 2.Negative.
+Age 1.20-65   
+Sex 1. Male, 2.Female		   
+Polyuria 1.Yes, 2.No.		   
+Polydipsia 1.Yes, 2.No.		   
+sudden weight loss 1.Yes, 2.No.	   
+weakness 1.Yes, 2.No.		   
+Polyphagia 1.Yes, 2.No.		   
+Genital thrush 1.Yes, 2.No.		   
+visual blurring 1.Yes, 2.No.		   
+Itching 1.Yes, 2.No.		   
+Irritability 1.Yes, 2.No.		   
+delayed healing 1.Yes, 2.No.		   
+partial paresis 1.Yes, 2.No.		   
+muscle stiness 1.Yes, 2.No.		   
+Alopecia 1.Yes, 2.No.		   
+Obesity 1.Yes, 2.No.		   
+Class 1.Positive, 2.Negative.   
+
 
 ### 3. Correlation
 ![image](https://github.com/kehanantoineLIU/Early-stage-diabetes-risk-prediction/assets/125217787/afc4d691-797e-4c76-a036-5f7986df2a76)
