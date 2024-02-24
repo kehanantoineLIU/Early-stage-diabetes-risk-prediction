@@ -1,7 +1,7 @@
-UE BC Early stage diabetes risk prediction
+# UE BC Early stage diabetes risk prediction
 Kehan Liu
 
-1. contexts
+## 1. contexts
 With the development of the economy, people's living conditions have undergone significant changes. This has led to alterations in dietary habits, with more high-sugar and high-fat foods being incorporated into daily consumption. Such lifestyle shifts have resulted in a plethora of health issues, including diabetes. Diabetes has become an increasingly prevalent health concern in today's society, particularly in developed countries. As urbanization and modernization accelerate, people are increasingly inclined towards convenient high-sugar, high-fat foods and sedentary lifestyles lacking in physical activity. These factors collectively contribute to the rising incidence of diabetes.
 
 
@@ -10,10 +10,10 @@ However, there are some early signs within the body that may help individuals re
 
 
 
-2. problematique
+## 2. problematique
 Determine which signs in a person may lead to having diabetes. Calculate the possibility(NO, LOW, MIDDLE, HIGH, VERY HIGH) that the user has diabetes based on the corresponding signs in the user's body. It also tells the user which signs can lead to diabetes and gives advice on how to solve the corresponding signs.
 
-3. Target audience: 
+## 3. Target audience: 
 Health-conscious and preventive population(Bangladesh )
 
 4. Data selection and analysis
