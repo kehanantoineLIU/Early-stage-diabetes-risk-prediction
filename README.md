@@ -29,7 +29,7 @@ Dramatic changes in weight: Dramatic weight changes may be associated with diabe
 Blurred vision: Blurred vision may be an early symptom of diabetes, related to eye problems caused by high blood sugar.
 class of diabetes： 1.Positive, 2.Negative.
 ### 2. dataset selection
-dataset：https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset
+dataset：https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset   
 info：This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient. And this has been collected using direct questionnaires from the patients of Sylhet Diabetes
 Hospital in Sylhet, Bangladesh and approved by a doctor.
 
@@ -254,7 +254,7 @@ The model I chose is a logistic regression model
 ### reason：
 Logistic regression is a simple and effective model with fast computation speed.
 The output of the logistic regression model is a probability value, which can be intuitively understood as the probability of belonging to a certain class. Additionally, the magnitude and direction of the feature coefficients can explain the extent and direction of the impact of features on the target variable.
-Model Evaluation
+### Model Evaluation
 Training set accuracy: 0.9086538461538461
 
 Test Set Accuracy: 0.8942307692307693
