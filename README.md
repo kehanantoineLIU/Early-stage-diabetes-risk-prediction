@@ -288,6 +288,11 @@ Recommendation: This may be caused by high blood sugar levels, as the kidneys at
 Feature Name: Polyphagia
 Recommendation: Polyphagia occurs because the body cannot effectively utilize glucose, leading to increased hunger. It is recommended to choose low-GI (glycemic index) foods, such as whole grains, vegetables, and healthy proteins, to control blood sugar fluctuations and reduce the tendency to overeat.
 
+### demo
+i used lib streamlit to creat a simple web   
+
+![image](https://github.com/kehanantoineLIU/Early-stage-diabetes-risk-prediction/assets/125217787/22c8f73d-587b-404a-8921-5daeedba2ae3)
+
 
 
 ## 7. system evaluation
